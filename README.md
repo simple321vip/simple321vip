@@ -1,6 +1,10 @@
 ### README 👋
 ---
-[![CII Best Practices](https://img.shields.io/badge/kubernetes-1.23-brightgreen)](https://img.shields.io/badge/etcd-3)
+![CII Best Practices](https://img.shields.io/badge/kubernetes-1.23-brightgreen)
+![CII Best Practices](https://img.shields.io/badge/etcd-3-brightgreen)
+![CII Best Practices](https://img.shields.io/badge/Java-11-brightgreen)
+![CII Best Practices](https://img.shields.io/badge/Vue3-brightgreen)
+![CII Best Practices](https://img.shields.io/badge/MongoDB-5.0.7-brightgreen)
 
 violin 基于云原生kubernetes的微服务项目。  
 其中包括1个单页面web后台管理应用，统一认证，wiki管理，bookmark管理，onenote，日历，云网盘，期货交易策略管理，日常工具服务功能。
