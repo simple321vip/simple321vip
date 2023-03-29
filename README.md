@@ -3,6 +3,8 @@
 ![CII Best Practices](https://img.shields.io/badge/kubernetes-1.23-brightgreen)
 ![CII Best Practices](https://img.shields.io/badge/golang-bright)
 ![CII Best Practices](https://img.shields.io/badge/Java-11-brightgreen)
+![CII Best Practices](https://img.shields.io/badge/springboot-2.5.2-brightgreen)
+![CII Best Practices](https://img.shields.io/badge/python3-brightgreen)
 ![CII Best Practices](https://img.shields.io/badge/typescript-brightgreen)
 ![CII Best Practices](https://img.shields.io/badge/Vue3-brightgreen)
 ![CII Best Practices](https://img.shields.io/badge/ElementUI-3-brightgreen)
