@@ -1,6 +1,7 @@
 ### README 👋
 ---
 ![CII Best Practices](https://img.shields.io/badge/kubernetes-1.23-brightgreen)
+![CII Best Practices](https://img.shields.io/badge/golang-bright)
 ![CII Best Practices](https://img.shields.io/badge/etcd-3-brightgreen)
 ![CII Best Practices](https://img.shields.io/badge/Java-11-brightgreen)
 ![CII Best Practices](https://img.shields.io/badge/Vue3-brightgreen)
