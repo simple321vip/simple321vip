@@ -2,11 +2,11 @@
 ---
 ![CII Best Practices](https://img.shields.io/badge/kubernetes-1.23-brightgreen)
 ![CII Best Practices](https://img.shields.io/badge/golang-bright)
-![CII Best Practices](https://img.shields.io/badge/etcd-3-brightgreen)
 ![CII Best Practices](https://img.shields.io/badge/Java-11-brightgreen)
-![CII Best Practices](https://img.shields.io/badge/Vue3-brightgreen)
 ![CII Best Practices](https://img.shields.io/badge/typescript-brightgreen)
+![CII Best Practices](https://img.shields.io/badge/Vue3-brightgreen)
 ![CII Best Practices](https://img.shields.io/badge/ElementUI-3-brightgreen)
+![CII Best Practices](https://img.shields.io/badge/etcd-3-brightgreen)
 ![CII Best Practices](https://img.shields.io/badge/MongoDB-5.0.7-brightgreen)    
 ![CII Best Practices](https://img.shields.io/badge/Jenkis-red)
 ![CII Best Practices](https://img.shields.io/badge/argocd-red)
