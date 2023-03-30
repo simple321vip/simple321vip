@@ -9,6 +9,7 @@
 ![CII Best Practices](https://img.shields.io/badge/Vue3-brightgreen)
 ![CII Best Practices](https://img.shields.io/badge/ElementUI-3-brightgreen)
 ![CII Best Practices](https://img.shields.io/badge/Echart-brightgreen)
+![CII Best Practices](https://img.shields.io/badge/redis-brightgreen)
 ![CII Best Practices](https://img.shields.io/badge/etcd-3-brightgreen)    
 ![CII Best Practices](https://img.shields.io/badge/AWS-blue)
 ![CII Best Practices](https://img.shields.io/badge/azure-blue)
